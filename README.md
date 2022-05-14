@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernice
-- 👀 I’m interested in Product Management 
-- 🌱 I’m currently learning Nodlejx
+- 👀 I’m interested in Product Design 
+- 🌱 I’m currently learning Nodejx
 - 📫 How to reach me @Bernice19
 
 <!---
